@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 代码块与代码加载顺序
  */
-public class Demo3 {
+public class Demo03 {
     public static void main(String[] args) {
         C c = new C();//静态代码块
         B b = new B();//局部代码块
